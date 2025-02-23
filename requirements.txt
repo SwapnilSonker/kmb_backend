@@ -1,0 +1,6 @@
+ollama
+fastapi
+uvicorn
+python-dotenv
+requests
+
